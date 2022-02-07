@@ -43,7 +43,7 @@ para correr el programa cuando se clone ir a carpetas
           -mp
             
 - en la clase MpApplication.java enjecutar el comando F5 para correr el servicio
-``` java
+``` js
 package com.mp.mp;
 
 import org.springframework.boot.SpringApplication;
@@ -58,7 +58,7 @@ public class MpApplication {
 
 }
 ```
-```
----
+
+
 
 
