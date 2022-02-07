@@ -25,12 +25,12 @@ Debugger for Java v0.38.0
 ---
 ---
 Insatalacion de pack de java el cual incluye el jdk necesario para el arranque del proyecto
-```
+
 - _[Coding pack for java](https://code.visualstudio.com/docs/languages/java)_ -
 - ir a la seccion de 
 - _[Install Visual Studio Code for Java](https://code.visualstudio.com/docs/languages/java#_install-visual-studio-code-for-java)_-
 selccionar la opcion de windows si asi fuera el caso
-```
+
 ---
 ---
 para correr el programa cuando se clone ir a carpetas
